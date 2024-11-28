@@ -1,6 +1,6 @@
 # homebridge-gogogate2
 
-[![verified-by-homebridge](https://badgen.net/badge/homebridge/verified/purple)](https://github.com/homebridge/homebridge/wiki/Verified-Plugins)
+## [![verified-by-homebridge](https://badgen.net/badge/homebridge/verified/purple)](https://github.com/homebridge/homebridge/wiki/Verified-Plugins)
 
 [![npm](https://img.shields.io/npm/v/homebridge-gogogate2.svg)](https://www.npmjs.com/package/homebridge-gogogate2)
 [![npm](https://img.shields.io/npm/dw/homebridge-gogogate2.svg)](https://www.npmjs.com/package/homebridge-gogogate2)
